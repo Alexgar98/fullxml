@@ -11,10 +11,10 @@
 			OBRA: <h2><xsl:value-of select="title"/></h2>
 		</p>
 		<p>
-			Año: <xsl:value-of select="year"/>
+		● Año: <xsl:value-of select="year"/>
 		</p>
 		<p>
-			Precio: <span><xsl:value-of select="price"/></span> euros
+		● Precio: <span><xsl:value-of select="price"/></span> euros
 		</p>
 	</xsl:template>
 </xsl:stylesheet>

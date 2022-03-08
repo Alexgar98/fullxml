@@ -1,6 +1,7 @@
-/* {
+* {
     display:block;
-}*/
+}
+
 p, h2 {
     color:blue !important;
 }
@@ -10,3 +11,4 @@ span {
     font-weight: bold;
 
 }
+
